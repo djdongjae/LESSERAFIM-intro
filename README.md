@@ -23,3 +23,6 @@
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/93889207/221766316-dcf34b3b-1101-484d-b4d2-0397c5e0ceb0.png">
 
+## 3.2 방명록 조회
+> 저장된 방명록을 조회하는 기능이다. 저장된 id값과 메세지를 출력한다.
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/93889207/221766670-1e4dbb8b-f271-4a0d-9447-d623d08d2c3c.png">
